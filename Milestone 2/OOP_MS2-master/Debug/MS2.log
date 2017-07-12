@@ -1,0 +1,9 @@
+﻿  ms2_tester.cpp
+  Error.cpp
+c:\users\saifk\desktop\oop\milestone 2\oop_ms2-master\error.cpp(21): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\saifk\desktop\oop\milestone 2\oop_ms2-master\error.cpp(46): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  Generating Code...
+  MS2.vcxproj -> C:\Users\saifk\Desktop\OOP\Milestone 2\OOP_MS2-master\Debug\MS2.exe
+  MS2.vcxproj -> C:\Users\saifk\Desktop\OOP\Milestone 2\OOP_MS2-master\Debug\MS2.pdb (Full PDB)
